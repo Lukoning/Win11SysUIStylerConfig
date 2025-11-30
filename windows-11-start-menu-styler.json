@@ -95,5 +95,6 @@
   "controlStyles[8].styles[0]": "Margin=97,0,0,0",
   "controlStyles[8].target": "Windows.UI.Xaml.Controls.Grid#AllAppsPaneHeader",
   "controlStyles[9].styles[0]": "Height=302",
-  "controlStyles[9].target": "Windows.UI.Xaml.Controls.Grid#TopLevelSuggestionsContainer"
+  "controlStyles[9].target": "Windows.UI.Xaml.Controls.Grid#TopLevelSuggestionsContainer",
+  "disableNewStartMenuLayout": 1
 }

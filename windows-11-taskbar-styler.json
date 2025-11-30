@@ -28,5 +28,9 @@
   "controlStyles[6].target": "SystemTray.Stack#ShowDesktopStack",
   "controlStyles[7].styles[0]": "MinWidth=24",
   "controlStyles[7].styles[1]": "Width=Auto",
-  "controlStyles[7].target": "Taskbar.Gripper#GripperControl"
+  "controlStyles[7].target": "Taskbar.Gripper#GripperControl",
+  "resourceVariables[0].value": "",
+  "resourceVariables[0].variableKey": "",
+  "styleConstants[0]": "",
+  "theme": ""
 }
