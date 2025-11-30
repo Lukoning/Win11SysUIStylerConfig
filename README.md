@@ -18,7 +18,7 @@ Windows 11 Taskbar Styler
 
 # 预览
 
-<img width="360" height="888" alt="通知中心" src="https://github.com/user-attachments/assets/99910f92-8e79-4a43-a5d7-cbf68dd2fba7" />
+<img width="360" height="888" alt="通知中心" src="https://github.com/user-attachments/assets/89fc3346-5cdf-40a9-9c10-a0d446e21628" />
 
 <img width="376" height="434" alt="控制中心" src="https://github.com/user-attachments/assets/a4dcf612-521a-4b61-8f28-44f719f3a73e" />
 
