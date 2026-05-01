@@ -1,6 +1,8 @@
-# 四个修改 Windows 11 系统 XAML 界面的模组的配置
+# 五个修改 Windows 11 系统 XAML 界面的模组的配置
 
-四个模组分别是：
+五个模组分别是：
+
+Taskbar height and icon size
 
 Windows 11 File Explorer Styler
 
@@ -10,6 +12,8 @@ Windows 11 Start Menu Styler
 
 Windows 11 Taskbar Styler
 
+<img width="387" height="156" alt="图片" src="https://github.com/user-attachments/assets/cae30b5e-8dc2-4672-a35a-1137b7c21b1e" />
+
 <img width="770" height="318" alt="图片" src="https://github.com/user-attachments/assets/dc8bd4cc-e77c-42bb-8421-4239d723ad5a" />
 
 # 导入方法
@@ -18,7 +22,7 @@ Windows 11 Taskbar Styler
 
 # 预览
 
-<img width="360" height="888" alt="通知中心" src="https://github.com/user-attachments/assets/89fc3346-5cdf-40a9-9c10-a0d446e21628" />
+<img width="373" height="771" alt="通知中心" src="https://github.com/user-attachments/assets/89fc3346-5cdf-40a9-9c10-a0d446e21628" />
 
 <img width="376" height="434" alt="控制中心" src="https://github.com/user-attachments/assets/a4dcf612-521a-4b61-8f28-44f719f3a73e" />
 

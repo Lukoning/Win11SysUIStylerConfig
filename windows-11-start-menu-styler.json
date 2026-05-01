@@ -96,5 +96,8 @@
   "controlStyles[8].target": "Windows.UI.Xaml.Controls.Grid#AllAppsPaneHeader",
   "controlStyles[9].styles[0]": "Height=302",
   "controlStyles[9].target": "Windows.UI.Xaml.Controls.Grid#TopLevelSuggestionsContainer",
-  "disableNewStartMenuLayout": 1
+  "disableNewStartMenuLayout": 1,
+  "theme": "",
+  "controlStyles[39].target": "Border",
+  "controlStyles[39].styles[0]": "BorderThickness=0"
 }
