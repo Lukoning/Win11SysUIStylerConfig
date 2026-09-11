@@ -47,7 +47,7 @@
   "controlStyles[5].styles[0]": "Background:=<AcrylicBrush TintColor=\"{ThemeResource SystemChromeAltHighColor}\" TintOpacity=\"0.8\" FallbackColor=\"{ThemeResource SystemChromeLowColor}\" />",
   "controlStyles[5].styles[1]": "CornerRadius=8,0,0,8",
   "controlStyles[5].styles[2]": "BorderThickness=4,4,0,4",
-  "controlStyles[5].styles[3]": "BorderBrush:=<SolidColorBrush Color=\"{ThemeResource SurfaceStrokeColorDefault}\" Opacity=\"0\" />",
+  "controlStyles[5].styles[3]": "BorderBrush:=<SolidColorBrush Color=\"#000000\" Opacity=\"0\" />",
   "controlStyles[5].styles[4]": "Padding=2,-5,0,-5",
   "controlStyles[5].styles[5]": "Margin=0,0,0,0",
   "controlStyles[5].target": "Grid#SystemTrayFrameGrid",
